@@ -1,1 +1,3 @@
-# vtuber_speech_to_text
+# はじめに
+長い音声をGoogle Speech To Textで変換するためのサンプルです。
+[Qiita記事]()に使い方が書いてありますが、時間があったらこちらにも書きます。
